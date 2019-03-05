@@ -12,4 +12,4 @@ import Padrao from '../estilo/Padrao'
 //]
 
 export default props => 
-    <Text style={[Padrao.ex]}> {props.texto}  </Text>
+<Text style={[Padrao.ex]}> {props.texto} </Text>
